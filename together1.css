@@ -1,0 +1,51 @@
+body{
+	background: yellow;
+	font-size: 100%;
+	margin: 7%;
+	align-content: center;
+}
+header{
+	text-align: center;
+	background: white;
+	font-family: sans-serif;
+	padding-bottom: 10px;
+}
+h2{ 
+	background: white;
+	font-family: serif;
+	text-align: center;
+}
+details{
+	font-style: italic;
+}
+summary{
+	font-style: normal; 
+}
+section{
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin-right: 3%;
+}
+footer{
+	clear: both;
+	background: white;
+}
+img{
+	width: 10%;
+	align-items: center;
+}
+nav{
+	font-weight: bolder;
+	color: white;
+	margin-bottom: 5px;
+	display:inline-block;
+	padding-top: 15px;
+	text-align:center;
+	background:grey;
+	width: 200px;
+	height: 30px;
+}
+ol{
+	list-style: lower-alpha;
+}
